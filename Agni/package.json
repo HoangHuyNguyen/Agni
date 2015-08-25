@@ -1,0 +1,20 @@
+{
+	"name": "Agni Engine",
+	"version": "0.1",
+	"main": "index.html",
+	"window":{
+		"title": "Agni Engine",
+		"toolbar": false,
+		"position": "center",
+		"width": 1600,
+		"height": 900,
+		"resizable": true,
+		"show": true,
+		"frame": true,
+		"fullscreen": false
+	},
+	"chromium-args": "--child-clean-exit --enable-webgl --ignore-gpu-blacklist --disable-pinch",
+  	"webkit": {
+    	"plugin": true
+  }
+}

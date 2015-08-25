@@ -1,0 +1,1153 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"or",
+				"originPosition"
+			],
+			[
+				"ena",
+				"enableDirLight"
+			],
+			[
+				"en",
+				"enableDirLight"
+			],
+			[
+				"bi",
+				"bitangent"
+			],
+			[
+				"u_sm",
+				"u_sampleRadius"
+			],
+			[
+				"dir",
+				"directionalLight"
+			],
+			[
+				"Ad",
+				"AddModel"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"render",
+				"renderOption"
+			],
+			[
+				"fram",
+				"frameBuffer"
+			],
+			[
+				"Bin",
+				"BindFBO"
+			],
+			[
+				"view",
+				"viewportHeight"
+			],
+			[
+				"blur",
+				"blurProgram"
+			],
+			[
+				"SSAO",
+				"SSAOBuffer"
+			],
+			[
+				"SSA",
+				"SSAOBuffer〔variable〕"
+			],
+			[
+				"sam",
+				"sampler2D"
+			],
+			[
+				"depth",
+				"depthTexture"
+			],
+			[
+				"u_samp",
+				"u_sampleRadius"
+			],
+			[
+				"right",
+				"rightVec"
+			],
+			[
+				"rig",
+				"rightVec"
+			],
+			[
+				"u_noi",
+				"u_noiseScale"
+			],
+			[
+				"u_noise",
+				"u_noiseTexture"
+			],
+			[
+				"u_vew",
+				"u_viewPositionTexture"
+			],
+			[
+				"gl_Frag",
+				"gl_FragData"
+			],
+			[
+				"Add",
+				"AddObject"
+			],
+			[
+				"dis",
+				"disableTexture"
+			],
+			[
+				"Ren",
+				"RenderFBOToScreen"
+			],
+			[
+				"deb",
+				"debugProgram"
+			],
+			[
+				"Deb",
+				"DebugShader"
+			],
+			[
+				"Render",
+				"Render"
+			],
+			[
+				"bind",
+				"bindBuffer"
+			],
+			[
+				"lightCol",
+				"lightColorAndBrightness"
+			],
+			[
+				"u_li",
+				"u_lightAttenuation"
+			],
+			[
+				"amb",
+				"ambientColor"
+			],
+			[
+				"dif",
+				"diffuseColor"
+			],
+			[
+				"spec",
+				"specularColor"
+			],
+			[
+				"specu",
+				"specularColor"
+			],
+			[
+				"pixe",
+				"pixelNormal"
+			],
+			[
+				"difu",
+				"diffuseColor"
+			],
+			[
+				"u_lig",
+				"u_lightColorsAndBrightness"
+			],
+			[
+				"dire",
+				"direcitonToLight"
+			],
+			[
+				"pixel",
+				"pixelViewNormal"
+			],
+			[
+				"Ca",
+				"CalcPointLight"
+			],
+			[
+				"gl_fra",
+				"gl_FragColor"
+			],
+			[
+				"u_co",
+				"u_colorTexture"
+			],
+			[
+				"tex",
+				"texCoordsTexture"
+			],
+			[
+				"clear",
+				"clearColor"
+			],
+			[
+				"renderTar",
+				"renderTargetNum"
+			],
+			[
+				"re",
+				"renderTargetNum"
+			],
+			[
+				"In",
+				"Initialize"
+			],
+			[
+				"model",
+				"modelMatrix"
+			],
+			[
+				"Disab",
+				"DisableProgram"
+			],
+			[
+				"Se",
+				"SendUniformValuesToShader〔function〕"
+			],
+			[
+				"lig",
+				"lightPassProgram"
+			],
+			[
+				"a_ve",
+				"a_vertexPosition"
+			],
+			[
+				"Re",
+				"Render"
+			],
+			[
+				"G",
+				"GBuffer"
+			],
+			[
+				"Cre",
+				"CreateFragmentShader"
+			],
+			[
+				"tim",
+				"timeToDrawOneFrame"
+			],
+			[
+				"Appl",
+				"ApplyCelShading"
+			],
+			[
+				"out",
+				"outData"
+			],
+			[
+				"Get",
+				"GetReturnAddress"
+			],
+			[
+				"Imag",
+				"ImageProcessing"
+			],
+			[
+				"texture",
+				"texture2D"
+			],
+			[
+				"a_ver",
+				"a_vertexTexCoords"
+			],
+			[
+				"came",
+				"cameraPosition"
+			],
+			[
+				"camera",
+				"cameraPosition"
+			],
+			[
+				"FRAME",
+				"gl.FRAMEBUFFER_COMPLETE	GLCompletion"
+			],
+			[
+				"co",
+				"colorTexture"
+			],
+			[
+				"po",
+				"positionTexture"
+			],
+			[
+				"draw",
+				"drawBuffer"
+			],
+			[
+				"Engine",
+				"EngineCores"
+			],
+			[
+				"frameCo",
+				"frameColorTexture"
+			],
+			[
+				"dep",
+				"depthColor"
+			],
+			[
+				"TEXU",
+				"TEXTURE_2D"
+			],
+			[
+				"COLORB",
+				"gl.COLOR_BUFFER_BIT	GLCompletion"
+			],
+			[
+				"pos",
+				"postProcessShader"
+			],
+			[
+				"UNSI",
+				"UNSIGNED_SHORT"
+			],
+			[
+				"ELE",
+				"ELEMENT_ARRAY_BUFFER"
+			],
+			[
+				"VERTE",
+				"VERTEX_ATTRIB_TEXCOORDS〔variable〕"
+			],
+			[
+				"Init",
+				"InitBuffer"
+			],
+			[
+				"shader",
+				"shaderProgram"
+			],
+			[
+				"shaderPro",
+				"shaderProgramName"
+			],
+			[
+				"var",
+				"varying"
+			],
+			[
+				"a_vert",
+				"a_vertexTexCoords"
+			],
+			[
+				"Tex",
+				"TexCoords"
+			],
+			[
+				"Engi",
+				"EngineCores"
+			],
+			[
+				"move",
+				"movementVector"
+			],
+			[
+				"Upda",
+				"UpdateScene"
+			],
+			[
+				"Gra",
+				"Graphics"
+			],
+			[
+				"App",
+				"ApplyLightsToShader"
+			],
+			[
+				"fin",
+				"finalLightColor"
+			],
+			[
+				"ligh",
+				"lightIntensity"
+			],
+			[
+				"vertex",
+				"vertexPosition"
+			],
+			[
+				"uni",
+				"uniform3f"
+			],
+			[
+				"Graph",
+				"GraphicManager"
+			],
+			[
+				"Attr",
+				"AttributeLocation"
+			],
+			[
+				"VERTEX_",
+				"VERTEX_ATTRIB_NORMALS〔variable〕"
+			],
+			[
+				"aVer",
+				"aVertIndex"
+			],
+			[
+				"is",
+				"isYourTurn"
+			],
+			[
+				"dSou",
+				"dSouthEast"
+			],
+			[
+				"dSouth",
+				"dSouthWest"
+			],
+			[
+				"dNo",
+				"dNorthWest"
+			],
+			[
+				"southWest",
+				"southWestColor"
+			],
+			[
+				"numVe",
+				"numVertex"
+			],
+			[
+				"De",
+				"DegToRad"
+			],
+			[
+				"Rotate",
+				"RotateYDegree"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"active",
+				"activeCamera"
+			],
+			[
+				"tras",
+				"transportedData"
+			],
+			[
+				"ge",
+				"geometry"
+			],
+			[
+				"Load",
+				"LoadModel"
+			],
+			[
+				"geome",
+				"geometries"
+			],
+			[
+				"CreateOrLoadModelFr",
+				"CreateOrLoadModelFromEngineCore"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"En",
+				"EngineCores"
+			],
+			[
+				"us",
+				"useProgram"
+			],
+			[
+				"nam",
+				"namePath"
+			],
+			[
+				"pro",
+				"projectionMatrix"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"s",
+				"shaderProgram"
+			],
+			[
+				"face",
+				"faceVertexTexCoords"
+			],
+			[
+				"crea",
+				"gl.createBuffer	GLCompletion"
+			],
+			[
+				"ind",
+				"indicesFromFace〔function〕"
+			],
+			[
+				"mater",
+				"materialIndex"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"ver",
+				"vertexIndex1"
+			],
+			[
+				"hasFaceVer",
+				"hasFaceVertexNormal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Agni/Shader/DirLightPassShader.frag",
+			"settings":
+			{
+				"buffer_size": 2207,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Agni/Shader/DirLightPassShader.vert",
+			"settings":
+			{
+				"buffer_size": 687,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Agni/Shader/SSAOShader.frag",
+			"settings":
+			{
+				"buffer_size": 4356,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Agni/Shader/LightPassShader.frag",
+			"settings":
+			{
+				"buffer_size": 2992,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Agni/Shader/DebugShader.frag",
+			"settings":
+			{
+				"buffer_size": 1061,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Agni/Scripts/Cores/Graphics/GraphicManager.js",
+			"settings":
+			{
+				"buffer_size": 18032,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Agni/InteractiveCanvas.js",
+			"settings":
+			{
+				"buffer_size": 9160,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Agni/Scripts/Cores/Graphics/GraphicObject.js",
+			"settings":
+			{
+				"buffer_size": 16384,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "packet cont",
+		"selected_items":
+		[
+			[
+				"packet cont",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data/Model",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader"
+	],
+	"file_history":
+	[
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/GeometryPassShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/Light.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data/Model/Table.json",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Utilities/Math.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/FBO.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data/Model/apple.json",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/DirLightPassShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/LightPassShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/GeometryPassShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/GraphicObject.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/SSAOShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/Texture.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/BlurShader.frag",
+		"/D/XAMPP/htdocs/ObjToJson/teapoit.obj",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/BlurShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/GraphicBuffers.js",
+		"/C/Users/GHC22/Downloads/ssao/ssao/bin/shaders/ssao.fs.glsl",
+		"/C/Users/GHC22/Downloads/ssao/ssao/bin/shaders/common/normals.glsl",
+		"/C/Users/GHC22/Downloads/ssao/ssao/bin/shaders/common/utils.glsl",
+		"/C/Users/GHC22/Downloads/ssao/ssao/bin/shaders/ssaoonly.fs.glsl",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/ForwardShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/index.html",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data/Model/Sphere.json",
+		"/D/XAMPP/htdocs/glMatrix/src/gl-matrix/vec3.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data/Model/teapot2.json",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/Camera.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/LightPassShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/WebGLShaderProgram.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/PostProcessShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/DebugShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/PostProcessShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/InteractiveCanvas.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/DebugShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/ForwardShader.frag",
+		"/D/XAMPP/htdocs/ogldev-source/ogldev-source/tutorial37/shaders/geometry_pass.fs",
+		"/D/XAMPP/htdocs/ogldev-source/ogldev-source/tutorial37/shaders/geometry_pass.vs",
+		"/C/Users/GHC22/Downloads/ogldev-source/ogldev-source/tutorial36/shaders/point_light_pass.fs",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data/Model/sphere.json",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/AmbientPassShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Data/Model/Box.json",
+		"/C/Users/GHC22/Downloads/ogldev-source/ogldev-source/tutorial36/shaders/light_pass.vs",
+		"/C/Users/GHC22/Downloads/ogldev-source/ogldev-source/tutorial36/shaders/geometry_pass.vs",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/BasicShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/BasicShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/AmbientPass.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/AmbientPass.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/PBuffer.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/GraphicManager.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/WebGLShader.js",
+		"/D/XAMPP/htdocs/PostProcessing/video.js",
+		"/D/XAMPP/htdocs/video/video.js",
+		"/D/Repos/sd-7-project/ASMvJS/JS/video.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/GBuffer.js",
+		"/D/XAMPP/htdocs/WebStorage/data.js",
+		"/D/XAMPP/htdocs/WebStorage/index.html",
+		"/D/XAMPP/htdocs/WebStorage/style.css",
+		"/C/Users/GHC22/Desktop/test.png",
+		"/D/XAMPP/htdocs/video/index.html",
+		"/D/XAMPP/htdocs/PostProcessing/index.html",
+		"/C/Users/GHC22/Desktop/webidl/webidl/output.js",
+		"/D/XAMPP/htdocs/video/function.js",
+		"/D/XAMPP/htdocs/video/ImageProcessing.cpp",
+		"/C/Users/GHC22/Desktop/webidl/webidl/bar.cpp",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/video2/ImageProcessing.cpp",
+		"/D/XAMPP/htdocs/video/ImageProcessing.h",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/video/my_classes.idl",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/video/my_glue_wrapper.cpp",
+		"/C/Users/GHC22/Desktop/webidl/webidl/process.txt",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/video/ImageProcessing.cpp",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/video/ImageProcessing.h",
+		"/C/Users/GHC22/Desktop/webidl/webidl/bar.h",
+		"/C/Users/GHC22/Desktop/webidl/webidl/index.html",
+		"/C/Users/GHC22/Desktop/webidl/webidl/my_glue_wrapper.cpp",
+		"/C/Users/GHC22/Desktop/webidl/webidl/my_classes.idl",
+		"/D/XAMPP/htdocs/tutorial/my_classes.idl",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tests/hello_world.cpp",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tests/hello_world.c",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/video/ImageProcessing.hpp",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/SimpleShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/SimpleShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/G-Buffer.js",
+		"/D/XAMPP/htdocs/tutorial/index.html",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tutorial/my_classes.idl",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tutorial/index.html",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tutorial/output.js",
+		"/D/XAMPP/htdocs/Web Worker Demo/index.html",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tutorial/bar.h",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tutorial/bar.cpp",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tutorial/my_glue_wrapper.cpp",
+		"/C/Program Files/Emscripten/emscripten/1.29.0/tutorial/my_classes.cpp",
+		"/C/Users/GHC22/Desktop/em/my_classes.idl",
+		"/C/Users/GHC22/Desktop/bar.h",
+		"/C/Users/GHC22/Desktop/bar.cpp",
+		"/C/Users/GHC22/Desktop/foo.cpp",
+		"/C/Users/GHC22/Desktop/foo.h",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/EngineCores.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/package.json",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Graphics/WebGLUtils.js",
+		"/D/XAMPP/htdocs/Electron/hello-atom/build/Gruntfile.js",
+		"/D/XAMPP/htdocs/Electron/hello-atom/build/package.json",
+		"/D/XAMPP/htdocs/Electron/hello-atom/build/node_modules/grunt-atom-shell-app-builder/tasks/build-atom-shell-app-task.js",
+		"/D/XAMPP/htdocs/Electron/hello-atom/hello-app/package.json",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/FBOShader.vert",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/FBOShader.frag",
+		"/D/XAMPP/htdocs/PostProcessing/package.json",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/simpleShader.frag",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Shader/simpleShader.vert",
+		"/D/XAMPP/htdocs/DrawWithFriends/webrtc.js",
+		"/D/XAMPP/htdocs/DrawWithFriends/server.js",
+		"/D/XAMPP/htdocs/DrawWithFriends/client.js",
+		"/D/XAMPP/htdocs/DrawWithFriends/index.html",
+		"/D/XAMPP/htdocs/DrawWithFriends/canvas.js",
+		"/D/XAMPP/htdocs/Audio Demo/webaudio.js",
+		"/D/XAMPP/htdocs/Audio Demo/audio.js",
+		"/D/XAMPP/htdocs/Audio Demo/3DInteractiveAudio/3DInteractiveAudio.js",
+		"/D/XAMPP/htdocs/Canvas Demo/canvas.html",
+		"/D/XAMPP/htdocs/index.html",
+		"/D/XAMPP/htdocs/applications.html",
+		"/D/XAMPP/htdocs/Audio Demo/audio.html",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Utilities/Utilities.js",
+		"/D/XAMPP/htdocs/WebGL Game Development/Chapter 4/primitive/Geometry.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/EngineCores.js",
+		"/D/XAMPP/htdocs/WebGL Game Development/Chapter 4/primitive/parseJSON.js",
+		"/D/XAMPP/htdocs/WebGL Game Development/Chapter 2/primitive/Face.js",
+		"/D/XAMPP/htdocs/WebGL Game Development/Chapter 2/primitive/parseJSON.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/GraphicManager.js",
+		"/C/Users/GHC22/Downloads/copperlicht-1.9-sdk/copperlicht-1.9-sdk/source/src/renderer.js",
+		"/D/XAMPP/htdocs/AgniEngineBaseApplication/Agni/Scripts/Cores/Camera/Camera.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\XAMPP\\htdocs\\AgniEngineBaseApplication\\Agni\\Scripts,D:\\XAMPP\\htdocs\\AgniEngineBaseApplication\\Agni\\Shader",
+			"D:\\XAMPP\\htdocs\\AgniEngineBaseApplication\\Agni\\Scripts\\Cores\\Graphics",
+			"D:\\XAMPP\\htdocs\\AgniEngineBaseApplication\\Agni\\Scripts",
+			"D:\\XAMPP\\htdocs\\AgniEngineBaseApplication\\Agni",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^(.*)$",
+			"FBO",
+			"lerp",
+			"radToDeg",
+			"graphicObjects.push",
+			"far",
+			"gl",
+			"\";\n",
+			"ApplyCelShading",
+			"addModel",
+			"depthTextureExt",
+			"RequestAnimation",
+			"requestAnimation",
+			"degToRad",
+			"viewport",
+			"morph",
+			"verticeFrom",
+			"this.vertexNormals",
+			"this.vertexNormal",
+			"a_",
+			"vertex",
+			"buffer",
+			"model",
+			"this",
+			"camera",
+			"renderer",
+			"lookAt",
+			"osc",
+			"start"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Agni/Shader/DirLightPassShader.frag",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Agni/Shader/DirLightPassShader.vert",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								518,
+								518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Agni/Shader/SSAOShader.frag",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4356,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Agni/Shader/LightPassShader.frag",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2749,
+								2841
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 1200.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Agni/Shader/DebugShader.frag",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1061,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								827,
+								827
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/OpenGL Shading Language (GLSL)/GLSL.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Agni/Scripts/Cores/Graphics/GraphicManager.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11379,
+								11379
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2709.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Agni/InteractiveCanvas.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1955,
+								1955
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 179.0,
+						"translation.y": 906.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Agni/Scripts/Cores/Graphics/GraphicObject.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AgniEngine.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
